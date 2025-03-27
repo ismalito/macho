@@ -140,3 +140,21 @@
 [03:30:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: I2[/100.99.220.92:56242] logged in with entity id 13015 at (-95.84150882834282, 36.0, -42.41876592384778)
 [03:30:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: I2 joined the game
 [03:30:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [I2: Set the time to 1000]
+[03:33:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [I2: Set own game mode to Survival Mode]
+[03:34:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [I2: Set own game mode to Creative Mode]
+[03:38:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: I1 lost connection: Disconnected
+[03:38:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: I1 left the game
+[03:39:01] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[03:39:01] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 9 mods : minecraft@1.12.2,FML@8.0.99.99,redirectionor@1.7 for 1.12.2-1.8.8,forge@14.23.5.2860,customnpcs@1.12,vm@1.0,tickratechanger@1.0.14,mcp@9.42,mobends@1.2.1
+[03:39:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:39:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: I1[/100.99.220.92:56322] logged in with entity id 19824 at (-38.5, -1.0, -69.5)
+[03:39:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: I1 joined the game
+[03:39:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: I1 moved too quickly! 0.0,-10.806526110009013,0.0
+[03:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [I2: Teleported I1 to I2]
+[03:40:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [I2: Opped I1]
+[03:40:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: I1 fell out of the world
+[03:40:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: I1 moved too quickly! 0.0,-11.233119618979792,0.0
+[03:40:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: I1 moved too quickly! 0.0,-12.48751206236711,0.0
+[03:40:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [I1: Set own game mode to Creative Mode]
+[03:40:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: I1 fell out of the world
+[03:40:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [I1: Set the time to 1000]
