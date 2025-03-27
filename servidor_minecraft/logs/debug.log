@@ -5229,3 +5229,40 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connect
 [05:22:16] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 775 times.
 
 [05:22:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:23:06] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 780 times.
+
+[05:23:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:23:56] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 785 times.
+
+[05:24:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:24:46] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 790 times.
+
+[05:25:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:25:36] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 795 times.
+
+[05:25:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:26:26] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 800 times.
+
+[05:26:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:27:16] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 805 times.
+
+[05:27:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:28:06] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 810 times.
+
+[05:28:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:28:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:28:56] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 815 times.
+
+[05:29:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:29:46] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 820 times.
+
+[05:30:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:30:36] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 825 times.
+
+[05:31:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:31:26] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 830 times.
+
+[05:31:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:32:16] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 835 times.
+
+[05:32:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
