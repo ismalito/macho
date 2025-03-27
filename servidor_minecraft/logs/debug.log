@@ -4880,3 +4880,54 @@
 [03:52:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:52:42] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 240 times.
 
+[03:53:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Joako789_ moved too quickly! 0.0,-20.098914647948106,0.0
+[03:53:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Joako789_ fell out of the world
+[03:53:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:53:32] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 245 times.
+
+[03:53:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Joako789_ lost connection: Disconnected
+[03:53:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Joako789_ left the game
+[03:53:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:54:22] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 250 times.
+
+[03:54:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:55:12] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 255 times.
+
+[03:55:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:55:36] [Netty Epoll Server IO #0/DEBUG] [FML]: Muted NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[03:55:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: I2 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[03:55:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: I2 left the game
+[03:55:44] [Netty Epoll Server IO #4/DEBUG] [FML]: Muted NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[03:55:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: I1 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[03:55:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: I1 left the game
+[03:56:02] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 260 times.
+
+[03:56:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:56:52] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 265 times.
+
+[03:56:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:57:42] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 270 times.
+
+[03:57:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:58:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:58:32] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 275 times.
+
+[03:59:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:59:22] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 280 times.
+
+[03:59:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:00:12] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 285 times.
+
+[04:00:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:01:02] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 290 times.
+
+[04:01:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:01:52] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 295 times.
+
+[04:02:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:02:42] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 300 times.
+

@@ -161,3 +161,11 @@
 [03:50:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [I2: Set the time to 1000]
 [03:51:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Joako789_: Set own game mode to Survival Mode]
 [03:51:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Joako789_ has made the advancement [Take Aim]
+[03:53:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Joako789_ moved too quickly! 0.0,-20.098914647948106,0.0
+[03:53:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Joako789_ fell out of the world
+[03:53:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Joako789_ lost connection: Disconnected
+[03:53:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Joako789_ left the game
+[03:55:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: I2 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[03:55:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: I2 left the game
+[03:55:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: I1 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[03:55:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: I1 left the game
