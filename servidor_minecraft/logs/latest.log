@@ -158,3 +158,6 @@
 [03:40:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [I1: Set own game mode to Creative Mode]
 [03:40:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: I1 fell out of the world
 [03:40:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [I1: Set the time to 1000]
+[03:50:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [I2: Set the time to 1000]
+[03:51:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Joako789_: Set own game mode to Survival Mode]
+[03:51:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Joako789_ has made the advancement [Take Aim]

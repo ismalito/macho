@@ -4,6 +4,10 @@
     "NpcsTimers": [
     ],
     "FactionData": [
+        {
+            "Points": 0,
+            "Faction": 2
+        }
     ],
     "BankData": [
     ],

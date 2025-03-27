@@ -4840,3 +4840,43 @@
 [03:42:42] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 180 times.
 
 [03:42:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:43:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:43:32] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 185 times.
+
+[03:44:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:44:22] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 190 times.
+
+[03:44:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:45:12] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 195 times.
+
+[03:45:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:46:02] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 200 times.
+
+[03:46:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:46:52] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 205 times.
+
+[03:47:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:47:42] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 210 times.
+
+[03:47:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:48:32] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 215 times.
+
+[03:48:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:49:22] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 220 times.
+
+[03:49:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:50:12] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 225 times.
+
+[03:50:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:50:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [I2: Set the time to 1000]
+[03:50:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:51:02] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 230 times.
+
+[03:51:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Joako789_: Set own game mode to Survival Mode]
+[03:51:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:51:52] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 235 times.
+
+[03:51:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Joako789_ has made the advancement [Take Aim]
+[03:52:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:52:42] [Server thread/DEBUG] [FML]: The world 4c69c28e (world) may have leaked: seen 240 times.
+
