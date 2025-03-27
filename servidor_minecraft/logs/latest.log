@@ -121,3 +121,6 @@
 [06:07:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Joako789_: Set own game mode to Creative Mode]
 [06:14:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Joako789_: Set the time to 1000]
 [06:16:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Joako789_: Set own game mode to Survival Mode]
+[06:16:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Joako789_ was slain by NotLegal
+[06:16:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Joako789_ lost connection: Disconnected
+[06:16:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Joako789_ left the game

@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-27 06:16:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-03-26 03:49:46 +0000"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-03-27 06:16:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-03-26 03:49:21 +0000"
@@ -340,6 +352,12 @@
       "has_stone": "2025-03-26 02:55:23 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-03-27 06:16:04 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
